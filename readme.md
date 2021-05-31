@@ -5,6 +5,7 @@
 <details>
   <summary>:computer: Most used languages</summary>
   <br>
+  </br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x550xaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
