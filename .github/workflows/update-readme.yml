@@ -16,5 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIVITY_WORKFLOW_TOKEN }}
         with:
-          COMMIT_MSG: 'Commit example'
           MAX_LINES: 5
