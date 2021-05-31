@@ -10,5 +10,3 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0x550xaa&repo=challenges)](https://github.com/anuraghazra/github-readme-stats)
