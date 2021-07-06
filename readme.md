@@ -5,11 +5,4 @@ I'm a student. I have a hard time controlling my curisiosity while spending my d
 [![Mail Badge](https://img.shields.io/badge/-0x550xaa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:stefano.cuizza@protonmail.com)
 
 ---
-  
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-
-</details>
+ 
